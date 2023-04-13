@@ -26,28 +26,44 @@ In my free time, I've developed [CodeTrack](https://www.codetrack.dev/), a free 
 ## Your Talk
 
 **Title:**
-Options: 
-1. Leading With Your Work: How to get Interviews with No Resume
-2. CodeTrack: How I Built This
+
+Contributing to Open Source: Making your first PR
 
 **What your talk is about:**
 
-1.Leading With Your Work
+Given the slower job market, most new developers will need to go beyond building a personal project inorder to grow their skills while looking to land their first job. I'd like to give a workshop on how to find a good project to contribute to and then getting into that project to find suitable issues. 
 
-When I was looking for my first job, I didn't have anything relevant on my resume. No degree, no highschool diploma, no GED, no relevant work experience. I had to rely on my work to get interviews and then my skill to get me through the interview. 
+Ideally, I'd like to give this talk in two 45 minute parts two weeks apart. I can structure them so that if you only attend one or the other, it will still be instructive. 
 
-Here is a link to [an article](https://www.codetrack.dev/articles/one-great-project) touching on the same theme.
+Session 1 
 
-Here is a [slide show](https://slides.com/jordanmanley-1/deck) that I might use but it gives a good idea of the talk.
+There would be four parts with some audience participation at each part. 
 
-2. CodeTrack: How I Built This
+What is Open Source? We will discuss and take ideas from the audience.
 
-CodeTrack utilizes several APIs in non-traditional ways. It's required creativity and reaching out to some companies to see if they would make changes to their API so that I could integrate with it better. 
+How to find a project to contribute to. The best first projects are big enough to be recognizable but small enough to give you some time to resolve the issues you take on. We will take 5 minutes for everyone to make their own list of 2-3 projects they might contribute to.
 
-CodeTrack is a fun product to explore as it is part education, part game and part resume for developers. 
+How to browse and choose an issue to work on or how to create a new issue. We'll discuss this, then invite everyone to browse the issues on the projects they chose. 
 
-I would focus on one-two features and break them apart to show how I built them. 
+How to run the project locally. I'll give an overview here and share my email for people to reachout or share any contribtions they make. 
 
+Session 2
+
+Running an open source project locally.
+
+Exploring the project and understanding how it works.
+
+Locating the issue you are trying to fix. 
+
+Making a commit and any further testing. 
+
+Opening a PR with good notes. 
+
+This session will conclude with how to properly show Open Source contributions on your resume. 
+
+As always, let me know if you have any questions. 
+
+Thanks!
 
 **How long will your talk be?**
 - [ ] 5-15 minutes (lightning talk)
